@@ -1,0 +1,1 @@
+Simple head navigation bar, @media (min-width: 600px)
